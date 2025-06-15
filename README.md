@@ -22,6 +22,6 @@ Welcome to **DataQuality** - your ultimate solution for ensuring impeccable data
 3. **Deployment**: Deploy the service and start monitoring your data quality.
 
 ## Support
-For any questions or support, please contact our support team at [support@example.com](mailto:harendra091016@gmail.com).
+For any questions or support, please contact our support team at [harendra091016@gmail.com](mailto:harendra091016@gmail.com).
 
 Ensure your data is always accurate and reliable with **DataQuality**!
